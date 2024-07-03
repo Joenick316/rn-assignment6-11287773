@@ -22,15 +22,13 @@ Add to Cart: Updates and stores the cart state in AsyncStorage whenever a new pr
 Remove from Cart: Updates and stores the cart state in AsyncStorage when items are removed.
 Load Cart on Startup: Retrieves cart data from AsyncStorage when the app initializes.
 
-IMG-20240703-WA0147 
+![IMG-20240703-WA0147]
 
-IMG-20240703-WA0148 
+![IMG-20240703-WA0148]
 
-IMG-20240703-WA0149 
+![IMG-20240703-WA0145]
 
-IMG-20240703-WA0145 
+![IMG-20240703-WA0144]
 
-IMG-20240703-WA0144
-
-IMG-20240703-WA0146
+![IMG-20240703-WA0146]
 
