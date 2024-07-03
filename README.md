@@ -1,4 +1,4 @@
-APP PAGE
+![image](https://github.com/Joenick316/rn-assignment6-11287773/assets/152196135/4a630a24-ebe6-4d5c-9df1-ae18282ea5fa)![4e85795e-b611-4eb0-ba2b-1da7bcd67957](https://github.com/Joenick316/rn-assignment6-11287773/assets/152196135/9513589f-b808-4633-adea-479d9f59b230)APP PAGE
 The application is a straightforward e-commerce app with two primary screens: HomeScreen and CartScreen. It boasts a sleek and modern design to ensure a user-friendly shopping experience.
 
 
@@ -21,14 +21,20 @@ AsyncStorage: Utilized for saving cart data locally on the device.
 Add to Cart: Updates and stores the cart state in AsyncStorage whenever a new product is added.
 Remove from Cart: Updates and stores the cart state in AsyncStorage when items are removed.
 Load Cart on Startup: Retrieves cart data from AsyncStorage when the app initializes.
+![image](https://github.com/Joenick316/rn-assignment6-11287773/assets/152196135/fd155ff9-45ed-4b65-8ad3-3277a3802c67)
 
-![IMG-20240703-WA0147]
+![image](https://github.com/Joenick316/rn-assignment6-11287773/assets/152196135/4a770fe1-6557-49bd-a99a-6df54ad8f008)
 
-![IMG-20240703-WA0148]
+![image](https://github.com/Joenick316/rn-assignment6-11287773/assets/152196135/00f992de-0cae-4ccf-b47d-eaa890fe916c)
 
-![IMG-20240703-WA0145]
+![image](https://github.com/Joenick316/rn-assignment6-11287773/assets/152196135/6331dbe0-c9da-41a0-87e9-8e28a67d27b4)
 
-![IMG-20240703-WA0144]
+![image](https://github.com/Joenick316/rn-assignment6-11287773/assets/152196135/f29d806d-6a7f-4682-a0fa-2b499bf2ec4d)
 
-![IMG-20240703-WA0146]
+
+
+
+
+
+
 
